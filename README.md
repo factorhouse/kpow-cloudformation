@@ -16,7 +16,7 @@ kPow has a suggested allocation of **2GB heap** making it ideal for provisioning
 
 kPow connects to your Kafka cluster with exactly the same configuration as a Kafka Producer or Consumer.
 
-This quick start provides CloudFormation scripts to run a kPow in ECS, for EKS support [kPow Helm Charts](https://github.com/operatr-io/kpow-helm-charts).
+This quick start provides CloudFormation scripts to run kPow in ECS, for EKS support [kPow Helm Charts](https://github.com/operatr-io/kpow-helm-charts).
 
 ## Licensing Options
 
