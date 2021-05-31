@@ -1,6 +1,6 @@
-# Run kPow for Apache Kafka in ECS / EC2 / Fargate
+# Run kPow for Apache Kafka in Amazon ECS
 
-This quick start provides help getting kPow up and running in AWS in minutes.
+This quick start provides help getting kPow up and running in Amazon ECS in minutes.
 
 kPow is the perfect companion to [Amazon MSK](https://aws.amazon.com/msk/) and is easily configured to run in Amazon ECS.
 
