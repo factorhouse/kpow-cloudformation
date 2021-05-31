@@ -16,11 +16,11 @@ kPow has a suggested allocation of **2GB heap** making it ideal for provisioning
 
 kPow connects to your Kafka cluster with exactly the same configuration as a Kafka Producer or Consumer.
 
-This quick start provides CloudFormation scripts to run a kPow in ECS, for EKS installation support see our Kubernetes / Helm Quick Start.
+This quick start provides CloudFormation scripts to run a kPow in ECS, for EKS installation support [kPow Helm Charts](https://github.com/operatr-io/kpow-helm-charts).
 
 ## Licensing Options
 
-The kPow container is available in two places for AWS Customers.
+The kPow container is available in two places:
 
 * [Dockerhub](https://hub.docker.com/r/operatr/kpow) requires a license, [start a free 30-day trial](https://kpow.io/try) today.
 * [AWS Marketplace](https://aws.amazon.com/marketplace/seller-profile?id=ab356f1d-3394-4523-b5d4-b339e3cca9e0&ref=dtl_B084BTWJHD) is automatically licensed, simply click subscribe and pay via your AWS bill.
