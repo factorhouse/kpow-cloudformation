@@ -2,7 +2,7 @@
 
 This quick start provides help getting kPow up and running in AWS in minutes.
 
-kPow is the perfect companion to [Amazon MSK](https://aws.amazon.com/msk/) and is easily configured to run in ECS/Fargate/EC2/EKS.
+kPow is the perfect companion to [Amazon MSK](https://aws.amazon.com/msk/) and is easily configured to run in Amazon ECS.
 
 See our [documentation](https://docs.kpow.io/) for full installation options and licensing information.
 
