@@ -6,7 +6,7 @@ kPow is the perfect companion to [Amazon MSK](https://aws.amazon.com/msk/) and i
 
 See our [documentation](https://docs.kpow.io/) for full installation options and licensing information.
 
-See our [AWS Marketplace Guide](https://docs.kpow.io/installation/aws-marketplace) for information on our AWS Marketplace listing, including the IAM roles and permissions required by kPow.
+See the [AWS Marketplace Guide](https://docs.kpow.io/installation/aws-marketplace) for information on the IAM permissions required by kPow.
 
 ## Deploying to ECS or EKS.
 
