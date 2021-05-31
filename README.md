@@ -1,4 +1,4 @@
-# Deploy [kPow](https://kpow.io) in AWS.
+# Run kPow for Apache Kafka in Amazon ECS / EC2 / Fargate
 
 This quick start provides help getting kPow up and running in AWS in minutes.
 
